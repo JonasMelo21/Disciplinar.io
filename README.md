@@ -30,6 +30,9 @@ O projeto é desenvolvido com foco em **práticas reais de engenharia de softwar
 - Deploy e documentação viva  
 > Cada fase é feita com método, intencionalidade e atenção aos detalhes – tanto para fins de aprendizagem quanto para demonstrar domínio técnico em projetos reais.
 
+🔍 **Veja a documentação completa:**  
+👉 [`/docs`](./docs)
+
 ---
 
 ## Fase 01 – Requisitos  
@@ -39,8 +42,10 @@ Nesta fase, serão definidos os principais **requisitos funcionais** e **não fu
 📌 **Conteúdo disponível:**  
 - Documento de requisitos conforme modelo IEEE  
 - Tabela com requisitos categorizados  
-- Diagrama de Casos de Uso
+- Diagrama de Casos de Uso *(em breve)*  
 
+🔗 Acesse a documentação detalhada desta fase:  
+👉 [`/docs/requisitos`](./docs/requisitos)
 
 ---
 
