@@ -1,6 +1,6 @@
 # 📁 Documentação – Disciplinar.io
 
-Este diretório guarda toda a **documentação técnica de estratégica** do projeto **Disciplinar.io**, organizada por fases da engenharia de software. O objetivo é manter uma documentação clara e rastreável durante todo o ciclo de desenvolvimento.
+Este diretório guarda toda a **documentação técnica** do projeto **Disciplinar.io**, organizada por fases da engenharia de software. O objetivo é manter uma documentação clara e rastreável durante todo o ciclo de desenvolvimento.
 
 > 🔎 Este projeto segue um processo completo de engenharia de software, com metodologia, organização e foco em boas práticas.
 
