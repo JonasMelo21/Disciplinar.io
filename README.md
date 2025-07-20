@@ -5,7 +5,7 @@
 O **Disciplinar.io** é um projeto experimental que une **tecnologia, bem-estar e metas pessoais**. A proposta é desenvolver uma aplicação que ajude usuários a criarem, acompanharem e **alcançarem metas SMART** com mais clareza e disciplina.
 
 ### 💡 O que são metas SMART?  
-Metas SMART são metas **específicas (S)**, **mensuráveis (M)**, **atingíveis (A)**, **relevantes (R)** e **temporais (T)**. Esse modelo ajuda a transformar desejos vagos em **planos de ação concretos**, fáceis de acompanhar e revisar.
+Metas SMART são metas **específicas (S)**, **mensuráveis (M)**, **atingíveis (A)**, **relevantes (R)** e **com prazo definido(*time bound* (T))**. Esse modelo ajuda a transformar desejos vagos em **planos de ação concretos**, fáceis de acompanhar e revisar.
 
 **Exemplo:**  
 - ❌ Meta genérica: *"Quero emagrecer."*  
